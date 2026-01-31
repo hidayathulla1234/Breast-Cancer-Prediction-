@@ -1,0 +1,17 @@
+Here are the requirements needed for a Breast Cancer Prediction project (perfect for ML mini/major projects and README files 👇):
+
+
+Libraries:
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+Streamlit / Flask (optional, for web app)
+
